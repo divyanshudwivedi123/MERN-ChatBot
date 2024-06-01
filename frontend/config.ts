@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://authapp.dwivedidivyanshu30.workers.dev"
